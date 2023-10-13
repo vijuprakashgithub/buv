@@ -1,0 +1,10 @@
+First line
+Second Line
+<<<<<<< HEAD
+Emp1:Third Line
+Emp3:Fourth Line
+||||||| 884654c
+Emp1:Third Line
+=======
+Emp3:Third Line
+>>>>>>> emp1
